@@ -25,3 +25,4 @@
 - 외각
 - 뉴스
   - 침수 ㄷㄷ
+![2018920013 mind map](https://user-images.githubusercontent.com/43646843/46257843-06d19000-c4fc-11e8-9c20-95c2955744f7.jpg)
